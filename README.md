@@ -11,7 +11,7 @@ This repository contains the abstract layer of the cheat, and is designed to be 
 3. Full control of the packet layer
 
 ## Issues
-If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Team-MoonMC/ProtoHax/issues).   
+If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/RadiantCraft/ProtoHax/issues).   
 Please notice that this is an **English-only** repository, so all issues and pull requests must be in English, if you can't speak English, please use a [translator](https://translate.google.com/).
 
 ## License
@@ -31,7 +31,7 @@ For those who are unfamiliar with the license, here is a summary of its main poi
 - **Your modified application must also be licensed under the GPL** 
 
 ## Example Code
-Check out the [example](https://github.com/Team-MoonMC/ProtoHax/tree/neko-ribbon/src/test) for sample usage.
+Check out the [example](https://github.com/RadiantCraft/ProtoHax/tree/neko-ribbon/src/test) for sample usage.
 
 ## Platform-specific Implementations
 
